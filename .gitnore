@@ -1,0 +1,14 @@
+# node / hardhat
+node_modules/
+.artifacts/
+artifacts/
+cache/
+coverage/
+typechain/
+.env
+.env.*
+# macOS
+.DS_Store
+# logs
+npm-debug.log*
+yarn-error.log*
