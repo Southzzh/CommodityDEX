@@ -1,0 +1,10 @@
+{
+  "network": "Polygon",
+  "contracts": {
+    "XAUxDeskPolygon": "0xa930e4899cf88e29A3ae923147cA27E7ab04c6B0"
+  },
+  "externals": {
+    "USDC": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "Chainlink_XAU_USD": "0x0C466540B2ee1a31b441671eac0ca886e051E410"
+  }
+}
